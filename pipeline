@@ -1,0 +1,6 @@
+node{
+    stage('stage_pull'){
+    git 'https://github.com/Rachitmalhotra91/Gitdemo.git'
+        
+    }
+}
